@@ -11,7 +11,7 @@ Sentence Builder is a fluent API for constructing complex sentences programmatic
 
 ## Usage
 
-Here is an example of how to use the Sentence Builder to generate book titles, from my BookTitleGenerator project:
+Here is an example of how to use the Sentence Builder to generate book titles, from my [BookTitleGenerator](https://github.com/kedga/BookTitleGenerator) project:
 
 ```csharp
 public static string BookTitlePattern0() => new SentenceBuilder()
