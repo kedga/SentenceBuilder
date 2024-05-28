@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Sentence Builder</Title>
+    <Authors>kedga</Authors>
+    <PackageOutputPath>C:\LocalNuget\SentenceBuilder</PackageOutputPath>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GetRandomFromList" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
